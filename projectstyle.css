@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+  }
+  
+.card {
+    text-align: center;
+}
+.container {
+    border: red;
+}
+.footer {
+    margin-top: 20px;
+    background-color: lightblue;
+    height: 400px;
+}
+#carouselExampleControls{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.about{
+    margin-top: 50px;
+    color: black;
+}
